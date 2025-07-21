@@ -1,0 +1,16 @@
+.app-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    text-align: center;
+    background-image: url('./assets/fun-pet-bg.gif');
+    color: white;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
